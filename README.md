@@ -10,6 +10,8 @@ Created using [Godot 3.5](https://godotengine.org/download)
 
 Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), and opengameart.org (https://opengameart.org/content/missile-0)
 provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+Background for main game https://opengameart.org/content/space-background-3
+background for Menu https://opengameart.org/content/cethiels-desert-redux-as-a-16-bit-space-background
 
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
